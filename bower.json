@@ -1,0 +1,26 @@
+{
+  "name": "angular-starter",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-ui-router": "latest"
+  },
+  "main": "index.js",
+  "authors": [
+    "Sudheesan <surendransudheesan@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
+}
